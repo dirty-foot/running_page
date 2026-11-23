@@ -1,0 +1,55 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>117.73</distance>
+<average_hr></average_hr>
+<average_speed>0.5740000009536743</average_speed>
+<start_time>2021-04-22T23:55:00+00:00</start_time>
+<end_time>2021-04-22T23:58:24.928000+00:00</end_time>
+<moving_time>121.482</moving_time>
+<elapsed_time>204.928</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2021-04-22T23:55:00.000Z</time>
+  </metadata>
+  <trk>
+    <name>百色市 公开水域游泳</name>
+    <type>open_water_swimming</type>
+    <trkseg>
+      <trkpt lat="23.9183767698705196380615234375" lon="106.62317074835300445556640625">
+        <time>2021-04-22T23:55:00.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.91814467497169971466064453125" lon="106.62375857122242450714111328125">
+        <time>2021-04-22T23:56:20.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>29</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.9185331761837005615234375" lon="106.623208634555339813232421875">
+        <time>2021-04-22T23:58:12.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>28</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.91849637962877750396728515625" lon="106.62309556268155574798583984375">
+        <time>2021-04-22T23:58:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,63 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>162.79</distance>
+<average_hr></average_hr>
+<average_speed>0.6439999938011168</average_speed>
+<start_time>2019-05-25T09:39:36+00:00</start_time>
+<end_time>2019-05-25T09:43:48.777000+00:00</end_time>
+<moving_time>160.0</moving_time>
+<elapsed_time>252.777</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2019-05-25T09:39:36.000Z</time>
+  </metadata>
+  <trk>
+    <name>百色市 公开水域游泳</name>
+    <type>open_water_swimming</type>
+    <trkseg>
+      <trkpt lat="23.89052194543182849884033203125" lon="106.6169377975165843963623046875">
+        <time>2019-05-25T09:39:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.89028155244886875152587890625" lon="106.61747432313859462738037109375">
+        <time>2019-05-25T09:40:53.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>29</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.89055195264518260955810546875" lon="106.61727684549987316131591796875">
+        <time>2019-05-25T09:42:08.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>27</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.891264162957668304443359375" lon="106.61720308475196361541748046875">
+        <time>2019-05-25T09:43:43.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>27</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.89128218404948711395263671875" lon="106.61714307032525539398193359375">
+        <time>2019-05-25T09:43:48.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

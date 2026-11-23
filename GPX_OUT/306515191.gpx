@@ -1,0 +1,71 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>54717.76</distance>
+<average_hr></average_hr>
+<average_speed>3.9058893080479495</average_speed>
+<start_time>2024-01-01T00:11:15+00:00</start_time>
+<end_time>2024-01-01T04:04:44.040000+00:00</end_time>
+<moving_time></moving_time>
+<elapsed_time>14045.303</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2024-01-01T00:11:15.000Z</time>
+  </metadata>
+  <trk>
+    <name>黔南布依族苗族自治州 复合运动</name>
+    <type>multi_sport</type>
+    <trkseg>
+      <trkpt lat="25.43498240411281585693359375" lon="106.77072132937610149383544921875">
+        <time>2024-01-01T00:11:15.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="25.4339780844748020172119140625" lon="106.7743650265038013458251953125">
+        <time>2024-01-01T00:20:55.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="25.43398059904575347900390625" lon="106.77439159713685512542724609375">
+        <time>2024-01-01T00:20:58.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="25.43399669229984283447265625" lon="106.77435672841966152191162109375">
+        <time>2024-01-01T00:21:03.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="25.4350928775966167449951171875" lon="106.7710769735276699066162109375">
+        <time>2024-01-01T00:30:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="25.4351126588881015777587890625" lon="106.77119239233434200286865234375">
+        <time>2024-01-01T00:31:08.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="25.43398940004408359527587890625" lon="106.7743157409131526947021484375">
+        <time>2024-01-01T00:41:04.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="25.43398370034992694854736328125" lon="106.7743338458240032196044921875">
+        <time>2024-01-01T00:41:09.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

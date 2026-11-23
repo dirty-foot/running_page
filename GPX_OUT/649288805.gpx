@@ -1,0 +1,93 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>5.11</distance>
+<average_hr>100.0</average_hr>
+<average_speed>0.017743205209161672</average_speed>
+<start_time>2026-10-10T11:17:15+00:00</start_time>
+<end_time>2026-10-10T11:22:03+00:00</end_time>
+<moving_time>3.0</moving_time>
+<elapsed_time>288.0</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2026-10-10T11:17:15.000Z</time>
+  </metadata>
+  <trk>
+    <name>百色市 自由潜水</name>
+    <type>apnea_diving</type>
+    <trkseg>
+      <trkpt lat="23.88088325969874858856201171875" lon="106.57875160686671733856201171875">
+        <ele>122.40000152587890625</ele>
+        <time>2026-10-10T11:21:45.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:atemp>25.0</ns3:atemp>
+            <ns3:hr>107</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.88088325969874858856201171875" lon="106.57875160686671733856201171875">
+        <ele>122.40000152587890625</ele>
+        <time>2026-10-10T11:21:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:atemp>25.0</ns3:atemp>
+            <ns3:hr>107</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.880879320204257965087890625" lon="106.57874532043933868408203125">
+        <ele>122.40000152587890625</ele>
+        <time>2026-10-10T11:21:50.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:atemp>25.0</ns3:atemp>
+            <ns3:hr>111</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.88087294995784759521484375" lon="106.578740291297435760498046875">
+        <ele>122.40000152587890625</ele>
+        <time>2026-10-10T11:21:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:atemp>25.0</ns3:atemp>
+            <ns3:hr>111</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.8808695971965789794921875" lon="106.57873366959393024444580078125">
+        <ele>122.40000152587890625</ele>
+        <time>2026-10-10T11:21:52.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:atemp>25.0</ns3:atemp>
+            <ns3:hr>111</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.88086632825434207916259765625" lon="106.57872729934751987457275390625">
+        <ele>122.1999969482421875</ele>
+        <time>2026-10-10T11:21:53.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:atemp>25.0</ns3:atemp>
+            <ns3:hr>107</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.88086833991110324859619140625" lon="106.5787082724273204803466796875">
+        <ele>122.40000152587890625</ele>
+        <time>2026-10-10T11:22:03.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:atemp>25.0</ns3:atemp>
+            <ns3:hr>104</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,36 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>11.61</distance>
+<average_hr></average_hr>
+<average_speed>0.6915675223347231</average_speed>
+<start_time>2014-01-29T13:53:33+00:00</start_time>
+<end_time>2014-01-29T13:53:49.790000+00:00</end_time>
+<moving_time>4.0</moving_time>
+<elapsed_time>6.0</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2014-01-29T13:53:33.000Z</time>
+  </metadata>
+  <trk>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="23.896829076111316680908203125" lon="106.6093749739229679107666015625">
+        <ele>198.600006103515625</ele>
+        <time>2014-01-29T13:53:34.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.89686386100947856903076171875" lon="106.609381847083568572998046875">
+        <ele>199.1999969482421875</ele>
+        <time>2014-01-29T13:53:40.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

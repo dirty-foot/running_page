@@ -1,0 +1,63 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>181.48</distance>
+<average_hr></average_hr>
+<average_speed>0.44200000166893005</average_speed>
+<start_time>2019-04-13T06:24:58+00:00</start_time>
+<end_time>2019-04-13T06:31:48.863000+00:00</end_time>
+<moving_time>314.0</moving_time>
+<elapsed_time>410.863</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2019-04-13T06:24:58.000Z</time>
+  </metadata>
+  <trk>
+    <name>柳州市 公开水域游泳</name>
+    <type>open_water_swimming</type>
+    <trkseg>
+      <trkpt lat="24.30869878269731998443603515625" lon="109.40935081802308559417724609375">
+        <time>2019-04-13T06:24:58.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="24.3091923929750919342041015625" lon="109.40931561402976512908935546875">
+        <time>2019-04-13T06:26:48.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>18</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="24.30936732329428195953369140625" lon="109.40939708612859249114990234375">
+        <time>2019-04-13T06:28:55.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>23</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="24.3088913150131702423095703125" lon="109.40930019132792949676513671875">
+        <time>2019-04-13T06:30:45.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>25</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="24.308666177093982696533203125" lon="109.40923263318836688995361328125">
+        <time>2019-04-13T06:31:49.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

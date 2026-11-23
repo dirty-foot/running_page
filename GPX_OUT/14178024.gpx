@@ -1,0 +1,92 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>40.83</distance>
+<average_hr>85.0</average_hr>
+<average_speed>0.9702968963878328</average_speed>
+<start_time>2013-08-12T14:48:38+00:00</start_time>
+<end_time>2013-08-12T14:49:20.080000+00:00</end_time>
+<moving_time>33.0</moving_time>
+<elapsed_time>33.0</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2013-08-12T14:48:38.000Z</time>
+  </metadata>
+  <trk>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="23.90245936810970306396484375" lon="106.61213614046573638916015625">
+        <ele>109.8000030517578125</ele>
+        <time>2013-08-12T14:48:39.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>86</ns3:hr>
+            <ns3:cad>54</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.90250085853040218353271484375" lon="106.61211208440363407135009765625">
+        <ele>110.1999969482421875</ele>
+        <time>2013-08-12T14:48:44.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>87</ns3:hr>
+            <ns3:cad>54</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.90257847495377063751220703125" lon="106.6120809875428676605224609375">
+        <ele>111.59999847412109375</ele>
+        <time>2013-08-12T14:48:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>86</ns3:hr>
+            <ns3:cad>53</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.90265156514942646026611328125" lon="106.6120536625385284423828125">
+        <ele>113.59999847412109375</ele>
+        <time>2013-08-12T14:48:58.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>87</ns3:hr>
+            <ns3:cad>53</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.90269716270267963409423828125" lon="106.6120268404483795166015625">
+        <ele>114.59999847412109375</ele>
+        <time>2013-08-12T14:49:04.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>86</ns3:hr>
+            <ns3:cad>51</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.90272767283022403717041015625" lon="106.61200345493853092193603515625">
+        <ele>116</ele>
+        <time>2013-08-12T14:49:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>82</ns3:hr>
+            <ns3:cad>47</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.90273387543857097625732421875" lon="106.612001359462738037109375">
+        <ele>115.40000152587890625</ele>
+        <time>2013-08-12T14:49:12.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>81</ns3:hr>
+            <ns3:cad>48</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

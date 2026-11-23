@@ -1,0 +1,65 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>12647.97</distance>
+<average_hr></average_hr>
+<average_speed>2.8382866289021877</average_speed>
+<start_time>2024-07-18T09:07:46+00:00</start_time>
+<end_time>2024-07-18T10:22:02.199000+00:00</end_time>
+<moving_time></moving_time>
+<elapsed_time>4456.199</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2024-07-18T09:07:46.000Z</time>
+  </metadata>
+  <trk>
+    <name>百色市 复合运动</name>
+    <type>multi_sport</type>
+    <trkseg>
+      <trkpt lat="23.91864205710589885711669921875" lon="106.6235031746327877044677734375">
+        <time>2024-07-18T09:07:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.91823033802211284637451171875" lon="106.62307611666619777679443359375">
+        <time>2024-07-18T09:09:39.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.918019197881221771240234375" lon="106.6226576082408428192138671875">
+        <time>2024-07-18T09:11:33.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.9177652262151241302490234375" lon="106.62234622053802013397216796875">
+        <time>2024-07-18T09:13:23.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.917657099664211273193359375" lon="106.62209208123385906219482421875">
+        <time>2024-07-18T09:16:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.91792154870927333831787109375" lon="106.622497849166393280029296875">
+        <time>2024-07-18T09:18:34.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.91810997389256954193115234375" lon="106.62290328182280063629150390625">
+        <time>2024-07-18T09:20:29.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
