@@ -17,7 +17,7 @@ const getBasePath = () => {
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
   siteUrl: 'https://dirtyfoot.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  logo: '![0jg150xHFHXQ.jpg](https://img.remit.ee/i/0jg150xHFHXQ)',
   description: 'Personal site and blog',
   navLinks: [
     {
